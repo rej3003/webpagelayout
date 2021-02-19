@@ -5,7 +5,7 @@ HtmIndex = '''
 <!DOCTYPE html>
 <html>
 <head>
-test
+<meta name= "author" content= content="rej3003">
 	<meta charset="UTF-8">
 	<title>home page </title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
